@@ -138,7 +138,7 @@ class _ProfilePagesState extends State<ProfilePages> {
       color: Theme.of(context).scaffoldBackgroundColor,
       padding: EdgeInsets.all(8.0),
       child: Text(
-        'Bandung, 14 September 1991\n 0856246128xxx\n $email',
+        'Bandung, xx September 199x\n 0856246128xxx\n $email',
         textAlign: TextAlign.center,
         style: bioTextStyle,
       ),
@@ -159,7 +159,7 @@ class _ProfilePagesState extends State<ProfilePages> {
       color: Theme.of(context).scaffoldBackgroundColor,
       padding: EdgeInsets.all(8.0),
       child: Text(
-        'BookStoreApp ',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in magna ut magna hendrerit bibendum eget vel enim. Ut facilisis commodo blandit.',
         textAlign: TextAlign.center,
         style: bioTextStyle,
       ),
