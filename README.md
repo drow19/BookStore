@@ -7,8 +7,6 @@ Flutter bookstore application
 source : https://github.com/mrstein21/BookStoreAPI
 
 ## Screenshot 
-![](images/splash.jpg) ![](images/login.jpg)
+![](images/splash.jpg) ![](images/login.jpg)![](images/list.jpg) 
 
-![](images/list.jpg) ![](images/detail.jpg)
-
-![](images/cart.jpg)
+![](images/detail.jpg) ![](images/cart.jpg)
